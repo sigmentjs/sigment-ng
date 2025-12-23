@@ -1,0 +1,11 @@
+{
+  "name": "sigment-ng",
+  "version": "1.3.4",
+  "description": "Sigment no globals, explicit imports",
+  "type": "module",
+  "main": "dist/index.js",
+  "files": ["dist"],
+  "keywords": ["sigment","javascript","framework","cdn","esm"],
+  "author": "yaniv soussana",
+  "license": "MIT"
+}
