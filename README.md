@@ -12,7 +12,7 @@ You can import it directly from the CDN (or GitHub Pages):
 
 ```html
 <script type="module">
-  import { div, span, input } from "https://<your-cdn-url>/index.js";
+  import { div, span } from "https://cdn.jsdelivr.net/gh/sigmentjs/sigment-ng@1.3.4/dist/index.js";
 
   document.body.append(
     div(span("Hello Sigment NG v1.3.4!"))
