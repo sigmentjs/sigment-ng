@@ -4,7 +4,7 @@ Sigment NG is a variant of Sigment — **no global helpers**, all HTML elements 
 
 ## Version
 
-v1.3.4
+v1.3.5
 
 ## Usage
 
@@ -15,6 +15,6 @@ You can import it directly from the CDN (or GitHub Pages):
   import { div, span } from "https://cdn.jsdelivr.net/gh/sigmentjs/sigment-ng@1.3.5/dist/index.js";
 
   document.body.append(
-    div(span("Hello Sigment NG v1.3.4!"))
+    div(span("Hello Sigment NG v1.3.5!"))
   );
 </script>
